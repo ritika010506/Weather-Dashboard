@@ -1,0 +1,41 @@
+body{
+    background: rgb(202, 215, 245);
+    justify-content: center;
+    display: flex;
+    padding: 150px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    text-align: center;
+    color:black;
+    border-radius: 5px;
+}
+
+h1{
+    color: white;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    padding: 10px 14px;
+    background:rgb(52, 136, 209);
+    border-radius: 5px;
+    color:white;
+}
+
+.border{
+    background: rgb(34, 34, 36);
+    padding: 50px;
+    border-radius: 20px;
+
+}
+
+.weather-card{
+    background:white;
+    margin-top: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
